@@ -1,0 +1,13 @@
+{
+  "description": "Rare MakNFT",
+  "external_url": "https://github.com/PowderDev",
+  "image": "ipfs://QmdzBgvMp7T9nHocUcJXcWRpcxfVRLkHRChjpg1vvuaRrP",
+  "weight": 1,
+  "name": "Rare MakNFT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    }
+  ]
+}

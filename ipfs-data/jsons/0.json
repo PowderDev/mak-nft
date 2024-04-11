@@ -1,0 +1,13 @@
+{
+  "description": "Common MakNFT",
+  "external_url": "https://github.com/PowderDev",
+  "image": "ipfs://QmVS76nz8zMVTMFy82THobcZz1MDoDsY3AbGMgGRE1HcAH",
+  "weight": 0,
+  "name": "Common MakNFT",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    }
+  ]
+}
