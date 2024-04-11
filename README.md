@@ -1,4 +1,4 @@
-# Web3 fullstack project
+# MakNFT
 
 What is this project consist of?
 
